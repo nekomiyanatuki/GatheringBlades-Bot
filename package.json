@@ -1,0 +1,23 @@
+{
+  "name": "gatheringblades-bot",
+  "version": "1.0.0",
+  "description": "このリポジトリは新規要素の実装的簡易性と保守性の両立を図ったコードリポジトリです。",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekomiyanatuki/GatheringBlades-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "N2K-License-v1.0.0",
+  "bugs": {
+    "url": "https://github.com/nekomiyanatuki/GatheringBlades-Bot/issues"
+  },
+  "homepage": "https://github.com/nekomiyanatuki/GatheringBlades-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
