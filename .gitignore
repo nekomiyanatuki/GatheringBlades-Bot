@@ -6,8 +6,22 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+
+# todo
+*.txt
+*.csv
+
+# pic
+assets/public
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# js
+index.law.js
+
+# js new
+new/*.js
 
 # Runtime data
 pids
@@ -68,7 +82,6 @@ web_modules/
 # dotenv environment variable files
 GB.env
 .env
-.env.*
 !.env.example
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -113,6 +126,9 @@ dist
 
 # FuseBox cache
 .fusebox/
+
+# DB
+db.sql
 
 # DynamoDB Local files
 .dynamodb/
