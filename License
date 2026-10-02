@@ -1,6 +1,6 @@
 Copyright (c) 2026 nekomiyanatuki
 
-N2K-License-v1.0.0
+N2K-License-v1.0.1
 
 許可される行為：
 - 個人利用
@@ -11,8 +11,8 @@ N2K-License-v1.0.0
 - 非商用利用
 
 必須条件：
-- 原作者名を保持すること"Copyright (c) 2026 nekomiyanatuki"
-- 原リポジトリURLを表示すること"https://github.com/nekomiyanatuki/GatheringBlades-Bot"
+- 原作者名を保持すること 例:"Copyright (c) 2026 nekomiyanatuki"
+- 原リポジトリURLを表示すること 例:"https://github.com/nekomiyanatuki/GatheringBlades-Bot"
 - 改変内容を明示すること
 - 原作者または原作品から公式に承認・支援されていると誤認させないこと
 
@@ -30,9 +30,9 @@ N2K-License-v1.0.0
 ※1: 「大規模改変」とは、原著作物の主要な機能、構成、デザイン、設定、名称、または中核的なコードの全部または相当部分を変更することをいう。
 
 本ソフトウェアまたはその派生物を再配布する場合、以下の情報を目立つ場所に表示しなければならない。
-- 原作者名(nekomiyanatuki)
-- 原作品名(GatheringBlades-Bot)
-- 原リポジトリのURL(https://github.com/nekomiyanatuki/GatheringBlades-Bot)
+- 原作者名 (例:nekomiyanatuki)
+- 原作品名 (例:GatheringBlades-Bot)
+- 原リポジトリのURL (例:https://github.com/nekomiyanatuki/GatheringBlades-Bot)
 - 本ライセンスの全文または本ライセンスへの参照
 - 変更を加えた場合、その変更内容の概要(※1: 基本的明示方法)
 
